@@ -1,0 +1,26 @@
+MVP - mvp - minimum viable product
+
+Foody
+=====
+1. Login open application as guest - Don't know
+2. List the restaurants along with Name and type of dishes - Done
+3. User can search restaurants by name - Done
+
+
+ToDO 1
+=======
+1. Install Flask - Done
+2. Mongo DB - Done
+3. Develop a rest api - Doing
+
+
+ToDO 2
+=======
+1. user can add food items to the cart
+2. user can order food by providing delivery address
+3. only cash on the delivery
+4. delivery charge is applicable
+
+
+
+
